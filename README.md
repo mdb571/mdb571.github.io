@@ -1,5 +1,5 @@
 <h1 align="center">⚡️  mohammedbilal.github.io</h1>
-<p align="center">A Single page portfolioWebsite</p>
+<p align="center">A Single page portfolio Website</p>
 
 
 
