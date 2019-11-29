@@ -18,7 +18,7 @@ Give a ⭐ if this you find this project useful!
 
 ## 🗞 Licence
 
-Code released under the [MIT License](LICENSE).
+Code released under the [GPL](LICENSE).
 
 ## 👩🏾‍🔬 Credits
 
